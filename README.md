@@ -22,4 +22,4 @@ Internship Type: Summer Internship
 The internship certificate is included in this repository.
 
 ## Author
-Parth Kumar
+Pasupreddy Tirumala Sai Tushar 
